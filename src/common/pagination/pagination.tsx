@@ -163,7 +163,7 @@ const Pagination = ({
                     label="pageList"
                     options={options}
                     handleOnSelect={(e:any) => handleOnSelect(e)}
-                />
+                />git remote show origin
             </div>
         </div>
     );
